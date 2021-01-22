@@ -1,0 +1,106 @@
+nav ul li{
+    display: inline;
+    text-align: right;
+    float: right;
+    padding:15px;
+
+}
+
+a{
+    text-decoration: none;
+    color:#3C3C3C;
+    ;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+
+.half-width{
+    float: left;
+    margin:40px;
+    padding:40px;
+    width: 37%;
+    border: 5px solid white;
+    
+}
+
+.orange-btn{
+    text-decoration: none;
+    display:inline-block;
+    color:white;
+    padding:15px;
+    background-image: linear-gradient(45deg, tomato, red);
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.latestWork-card{
+ border: 3px solid white;
+ border-radius: 15px;
+ width: 25%;
+ float: left;
+ margin:60px 20px;
+ padding: 10px;
+ background-color: white;
+ 
+ 
+
+}
+
+section{
+    height:600px;
+}
+
+#inquiry{
+
+    background-image: url(shapes/Group_33094_1.png);
+    position: absolute;
+width: 906px;
+height: 225px;
+left: 267px;
+top: 2116px;
+
+/* Linear */
+
+background: linear-gradient(138.38deg, #5D69E9 -7.79%, #4225B6 98.72%);
+border-radius: 30px;
+
+}
+
+#inquiry-text{
+
+    position: absolute;
+width: 100px;
+height: 34px;
+left: 150px;
+top: 60px;
+
+font-family: Bebas Neue;
+font-style: normal;
+font-weight: bold;
+font-size: 34px;
+line-height: 34px;
+color: white;
+}
+
+.chat-btn{
+    position: absolute;
+width: 134px;
+height: 60px;
+left: 572px;
+top: 60px;
+
+}
+
+.social-icon{
+    position: relative;
+    left: 560px;
+ padding: 10px;
+ width: 40px;
+ height: 40px;
+
+}
+    
